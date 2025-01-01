@@ -1,7 +1,13 @@
 Console.writeLine("Hello world");
+<<<<<<< HEAD
+More logics
+codE
+code
+and code
+=======
 int x, y;
 if ( x > y)
 {
 	Console.writeLine("Hello world");
 }
-Niv changes
+>>>>>>> origin/main
