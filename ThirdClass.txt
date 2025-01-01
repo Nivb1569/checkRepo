@@ -3,3 +3,5 @@ Class Humen
 	String i_Name;
 	int id;
 }
+
+Avi changes
