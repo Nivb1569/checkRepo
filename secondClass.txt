@@ -1,0 +1,4 @@
+Class animal
+{
+	String m_AnimalName = null;
+}
