@@ -1,1 +1,6 @@
 Console.writeLine("Hello world");
+int x, y;
+if ( x > y)
+{
+	Console.writeLine("Hello world");
+}
