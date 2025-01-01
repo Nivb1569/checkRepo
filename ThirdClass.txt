@@ -1,0 +1,5 @@
+Class Humen
+{
+	String i_Name;
+	int id;
+}
